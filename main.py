@@ -38,3 +38,4 @@ if __name__ == "__main__":
 # update note (2026-11-24)
 # revisit later (2026-11-24)
 # wip (2026-11-24)
+# refactor bit (2026-11-25)
